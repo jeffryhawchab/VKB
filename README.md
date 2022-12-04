@@ -28,4 +28,4 @@ This project was built using these technologies.
 1. clone This repo navigate to index.html and open it with live server 
 ### Show your support
 
-Give a ⭐ if you like this website!
+Give a ⭐ if you like this !
